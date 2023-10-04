@@ -30,7 +30,7 @@
     let storeText = $storeName? $storeName : "store"
     const label = 'Payment to ' + storeText
     const message = 'Thank you for your payment!';
-    const memo = 'rippy.xyz';
+    const memo = 'pos.arvrtise.com';
 
     const unique = (value, index, self) => {
         return self.indexOf(value) === index
